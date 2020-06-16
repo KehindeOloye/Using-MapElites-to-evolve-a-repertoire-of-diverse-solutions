@@ -1,7 +1,7 @@
 # Using-MapElites-to-evolve-a-repertoire-of-diverse-solutions
-This work is based on the work titled "Automatic Generation of Adversarial Metamorphic Malware Using MAP-Elites" presented and published in the 23rd European Conference on the Applications of Evolutionary and bio-inspired Computation.
+This work is based on the work titled "Automatic Generation of Adversarial Metamorphic Malware Using MAP-Elites" presented at the 23rd European Conference on the Applications of Evolutionary and bio-inspired Computation, held between 15th-17th April, 2020, supposedly at Sevilla, Spain (this conference held on Zoom due to the Covid 19 pandemic).
 
-If you are using our code, you should cite our related research paper which outlines the details of the dataset and its underlying principle as follows;
+If you are using our code, you should cite our related research paper which outlines the details of the code and its underlying principle as follows;
 
 @InProceedings{10.1007/978-3-030-43722-0_8,
 author="Babaagba, Kehinde O.
